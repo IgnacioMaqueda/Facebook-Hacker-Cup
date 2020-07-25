@@ -35,3 +35,16 @@ These are my solutions to some Facebook Hacker Cup problems.
 [On the Run]:https://www.facebook.com/codingcompetitions/hacker-cup/2019/round-2/problems/A
 
 [A-OnTheRun]:2019/Round2/A-OnTheRun.cpp
+
+### 2020
+
+#### Qualification Round
+
+- Problem A - [Travel Restrictions]: [A-TravelRestrictions]
+- Problem B - [Alchemy]: [B-Alchemy]
+
+[Travel Restrictions]:https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/A
+[Alchemy]:https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B
+
+[A-TravelRestrictions]:2020/QualificationRound/A-TravelRestrictions.cpp
+[B-Alchemy]:2020/QualificationRound/B-Alchemy.cpp
