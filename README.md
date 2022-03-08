@@ -69,3 +69,17 @@ Some of them were made during the **contest** and some were made as **practice**
 [A2-ConsistencyChapter2]:2021/QualificationRound/A2-ConsistencyChapter2.py
 [B-XsAndOs]:2021/QualificationRound/B-XsAndOs.py
 [C1-GoldMineChapter1]:2021/QualificationRound/C1-GoldMineChapter1.py
+
+#### Round 1
+
+- Problem A1 - [Weak Typing Chapter 1]: [A1-WeakTypingChapter1] (practice)
+- Problem A2 - [Weak Typing Chapter 2]: [A2-WeakTypingChapter2] (practice)
+- Problem B - [Traffic Control]: [B-TrafficControl] (practice)
+
+[Weak Typing Chapter 1]:https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/A1
+[Weak Typing Chapter 2]:https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/A2
+[Traffic Control]:https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/B
+
+[A1-WeakTypingChapter1]:2021/Round1/A1-WeakTypingChapter1.py
+[A2-WeakTypingChapter1]:2021/Round1/A2-WeakTypingChapter2.py
+[B-TrafficControl]:2021/Round1/B-TrafficControl.py
