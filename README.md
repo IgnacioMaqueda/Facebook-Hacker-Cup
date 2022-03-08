@@ -81,5 +81,5 @@ Some of them were made during the **contest** and some were made as **practice**
 [Traffic Control]:https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/B
 
 [A1-WeakTypingChapter1]:2021/Round1/A1-WeakTypingChapter1.py
-[A2-WeakTypingChapter1]:2021/Round1/A2-WeakTypingChapter2.py
+[A2-WeakTypingChapter2]:2021/Round1/A2-WeakTypingChapter2.py
 [B-TrafficControl]:2021/Round1/B-TrafficControl.py
